@@ -2,7 +2,6 @@ import React, { useState, useEffect } from "react";
 import Billboard from "./Billboard";
 import LatestCollection from "./LatestCollection";
 import SubscribeSection from "./SubscribeSection";
-import SellingPro from "./SellingPro";
 
 const Home = () => {
   const [featuredProducts, setFeaturedProducts] = useState([]);
