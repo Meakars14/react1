@@ -24,7 +24,6 @@ const Home = () => {
       <br /><br /><br />
       <LatestCollection />
       <SubscribeSection />
-      <SellingPro />
       <div className="container mt-4">
         <h1 className="text-center mb-4">Welcome To M-Shopping</h1>
         <p className="text-center lead">
